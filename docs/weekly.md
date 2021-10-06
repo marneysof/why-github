@@ -1,6 +1,6 @@
 ## What makes a “Great Open Source Project” in GitHub (Part One)
  
-In German there is a saying “Two beers is a cutlet.” Its supposed to mean, I guess, that drinking two beers has the same amount of calories as eating a deep fried breadcrumbed cutlet. I imagine that Germans coined this during the time of Lent. Fasting over beer while dreaming of mouth watering veal may lead to delusions. At least, like many things around us, the number of calories in a cutlet is hard to measure. And this article is all about measurements.
+In German there is a saying “Two beers is a cutlet.” It's supposed to mean, I guess, that drinking two beers has the same amount of calories as eating a deep fried breadcrumbed cutlet. I imagine that Germans coined this during the time of Lent. Fasting over beer while dreaming of mouth watering veal may lead to delusions. At least, like many things around us, the number of calories in a cutlet is hard to measure. And this article is all about measurements.
 
 When Aeneas Rekkas aka “Hackerman” and I first started the open source Hydra product on GitHub in 2015 with the very first “commit,” we didn't  think too much about what makes a great project in the eyes of others. We just wanted to solve a problem that we had for others in the Go programming community. We did not have many metrics. Today we believe that we achieved our goal.  Yet, what makes open source software great?
 
